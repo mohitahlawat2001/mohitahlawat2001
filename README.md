@@ -39,6 +39,7 @@ Welcome to my profile! I'm a student, student Currently doing Btech in Informati
 )
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mohitahlawat2001&count_private=true&show_icons=true&include_all_commits=true)
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohitahlawat2001&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitahlawat2001&hide=TeX&layout=compact)
 ![Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitahlawat2001&theme=monokai)
 
